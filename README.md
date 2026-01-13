@@ -1,4 +1,5 @@
 git remote -v 
+git status
 git remote set-url origin "link of the url"
 git remote -v
 git add .
