@@ -4,4 +4,6 @@ git remote -v
 git add .
 git commit -m "added files"
 git push -u origin main
+git merge origin/main
+
 
